@@ -1,2 +1,2 @@
 # ensureTaskCanceled
-Cancel a asyncio.Task instance, until it is done.
+Keep cancelling a asyncio.Task instance, until it is done.

@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ensureTaskCanceled",
-    version="1.0.0",
+    version="1.1",
     author="Antas",
     author_email="",
     description="Keep cancelling a asyncio.Task instance, until it is done.",
